@@ -8,4 +8,5 @@ Converts the Euler angles to quaternions.
 
 Sends the final values as an array to the desired parameter.
 
-Needs pip install inputs to run
+Needs >pip install inputs 
+to run
